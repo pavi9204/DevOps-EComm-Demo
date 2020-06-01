@@ -1,1 +1,3 @@
-# DevOps-EComm-Demo
+# phpmysql-app
+An Ecoomm app built on PHP &amp; MySQL  
+
